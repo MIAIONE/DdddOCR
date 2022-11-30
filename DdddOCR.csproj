@@ -13,6 +13,7 @@
     <Description>ddddocr 的 C# 版本, 使用common_old.onnx制作, 受模型限制, 建议OCR图片的宽度为64整数倍</Description>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <PackageReleaseNotes>DdddOCR</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/MIAIONE/DdddOCR</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
